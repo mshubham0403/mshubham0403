@@ -58,6 +58,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshubham0403">
   </a>
  </p>
+
+ <p align="center">
+  <a href = "https://github.com/kishan0725">
+<img src="https://github-readme-stats.vercel.app/api?username=mshubham0403&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
  
 ### Top Languages
 
