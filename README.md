@@ -70,4 +70,4 @@
 ### Contact Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shubham%20Mishra-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-m-2824b21b5/)](https://www.linkedin.com/in/shubham-m-2824b21b5/) 
-[![Instagram Badge](https://img.shields.io/badge/-@shubham_mish.ra?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/shubham_mish.ra)](https://www.instagram.com/shubham_mish.ra)
+[![Instagram Badge](https://img.shields.io/badge/-@shubham_mish.ra?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/shubham_mish.ra)]
