@@ -1,4 +1,4 @@
-## Hi there, I'm [Shubham]! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm Shubham! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href = "https://github.com/mshubham0403">
-<img src="https://github-readme-stats.vercel.app/api?username=mshubham043&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mshubham0403">
   </a>
  </p>
  
@@ -69,6 +69,6 @@
 
 ### Follow Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shubham%20Mishra-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-m-2824b21b5/)](https://www.linkedin.com/in/kishan0725/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Shubham%20Mishra-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-m-2824b21b5/)](https://www.linkedin.com/in/shubham-m-2824b21b5/) 
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@kishan__07__25-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/kishan_07_25)](https://www.instagram.com/kishan_07_25) [![Twitter Badge](https://img.shields.io/badge/-@kishan0725-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishan0725)](https://twitter.com/kishan0725) [![Quora Badge](https://img.shields.io/badge/-@Kishan--175-b92b27?style=flat-circle&labelColor=b92b27&logo=quora&logoColor=white&link=https://www.quora.com/profile/Kishan-175)](https://www.quora.com/profile/Kishan-175) [![GitHub Badge](https://img.shields.io/badge/-@kishan0725-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan0725)](https://github.com/kishan0725) [![Gmail Badge](https://img.shields.io/badge/-@kishanlal0725-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:kishan0725@gmail.com)](mailto:kishan0725@gmail.com) [![StackOverflow Badge](https://img.shields.io/badge/-kishan--lal-f48225?style=flat-circle&labelColor=f48225&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10150468/kishan-lal)](https://stackoverflow.com/users/10150468/kishan-lal) [![YouTube Badge](https://img.shields.io/badge/-Kishan%20Lal-f00?style=flat-circle&labelColor=f00&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCbJ1G7ueeRGSFj0dNVYDNAg)](https://www.youtube.com/channel/UCbJ1G7ueeRGSFj0dNVYDNAg) -->
  -->
