@@ -63,7 +63,7 @@
 
 <p align="center">
 <a href = "https://github.com/mshubham0403">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshubham403layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshubham403&layout=compact&theme=vision-friendly-dark)](https://github.com/mshubham0403/github-readme-stats>
 </a>
 </p>
 
