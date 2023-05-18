@@ -60,7 +60,7 @@
  </p>
 
  <p align="center">
-  <a href = "https://github.com/kishan0725">
+  <a href = "https://github.com/mshubham0403">
 <img src="https://github-readme-stats.vercel.app/api?username=mshubham0403&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
@@ -75,5 +75,5 @@
 
 ### Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shubham%20Mishra-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-m-2824b21b5/)](https://www.linkedin.com/in/shubham-m-2824b21b5/) 
-[![Instagram Badge](https://img.shields.io/badge/-@shubham?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/shubham_mish.ra)](https://www.instagram.com/shubham_mish.ra)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-m-2824b21b5/)](https://www.linkedin.com/in/shubham-m-2824b21b5/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/shubham_mish.ra)](https://www.instagram.com/shubham_mish.ra)
