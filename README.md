@@ -25,14 +25,25 @@
 ### Worked with 
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
+<code><img height="40" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
+<code><img height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React"></code>
+
 <code><img height="40" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" title="threeJS"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code><code><img height="40" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express"></code>
 <code><img height="40" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" title="Socket"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code><code><img height="40" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" title="Vite"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" title="Vite"></code>
+<code><img height="40" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman"></code>
+<code><img height="40" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="MaterialUI"></code>
+<code><img height="40" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" title="ChakraUI"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
 ### GitHub Stats
 
@@ -53,11 +64,7 @@
   </a>
  </p>
 
- <p align="center">
-  <a href = "https://github.com/mshubham0403">
-<img src="https://github-readme-stats.vercel.app/api?username=mshubham0403&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
+
  
 ### Top Languages
 
