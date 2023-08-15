@@ -52,12 +52,13 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <a href = "https://github.com/mshubham0403">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshubham0403">
   </a>
- </p>
+ </p> -->
 
+<p align= "center"><a href = "https://github.com/mshubham0403"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshubham0403&theme=dark" alt="mshubham0403" /></a></p>
 
  
 ### Top Languages
