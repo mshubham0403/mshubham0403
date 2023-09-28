@@ -48,7 +48,7 @@
 ### Badges
 <p align="center">
   <a href="https://leetcode.com/mshubham0403/">
-    <img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=MSHUBHAM0403&theme=light" alt="leetcode.com/mshubham0403/" />
+    <img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=MSHUBHAM0403&theme=dark" alt="leetcode.com/mshubham0403/" />
 </a>
 </p>
 
