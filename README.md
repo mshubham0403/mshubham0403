@@ -45,6 +45,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
+### Badges
+<img>src="https://leetcode-badge-showcase.vercel.app/api?username=MSHUBHAM0403&theme=light"
+
+
 ### GitHub Stats
 
 
