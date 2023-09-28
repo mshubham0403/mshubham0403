@@ -46,13 +46,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
 ### Badges
-<p><img src="https://leetcode-badge-showcase.vercel.app/api?username=MSHUBHAM0403&theme=light"</img></p>
+<p><img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=MSHUBHAM0403&theme=light"</img></p>
 
 
-### GitHub Stats
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshubham0403" alt="mshubham0403" /></a> </p>
 
 
 
@@ -72,6 +69,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshubham0403&layout=compact&theme=vision-friendly-dark"/>
 </a>
 </p>
+
+### GitHub Stats
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshubham0403" alt="mshubham0403" /></a> </p>
 
 ### Contact Me
 
